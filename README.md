@@ -6,6 +6,6 @@ Team Members
 -1911100 Bhavin Patel
 
 ## Description
-This code , as the name suggests makes the log of all the keys pressed in the target computer. This log will be periodically sent in the form of email to the given email.
+This code , as the name suggests makes the log of all the keys pressed in the target computer. This log will be periodically sent in the form of email to the given email.Thus, we get all the information of the keys pressed by the target computer.
 
 ## Demonstration
